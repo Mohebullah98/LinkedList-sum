@@ -5,4 +5,5 @@ You have two numbers represented by Linked Lists in reverse where each node is a
 Write a function that adds two numbers and returns the sum as a linked list.
 
 ex: input(7,1,6) + (5,9,2) = 617 + 295
-    Output:(9,1,2) =912
+    
+    Output: (9,1,2) =912
